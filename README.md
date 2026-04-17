@@ -1,5 +1,4 @@
-# NotebookLM
-Projeto de Estudo com NotebookLM: Polilaminina no Contexto da Lesão Medular
+# NotebookLM - Projeto de Estudo com NotebookLM: Polilaminina
 
 Contexto e Objetivos:
 
